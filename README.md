@@ -1,5 +1,7 @@
-# IT\`S AN EDDY
-for recording
-
-    recording 'looking' for seeking<br>
-`actually` `i` `wonder` `how` `to` `'give'` `a` `highlight`
+ IT\`S AN EDDY
+ -------
+ |`_Name_`|`_Mail_`|`_Bilibili_`|
+ |---|---|---|
+ |**Eddy Focavn**|**chen_316@outlook.com**|**函数妹妹QAQ**|
+ 
+ 
