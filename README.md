@@ -5,5 +5,5 @@ for recording
     
     
 ```
-actually i `wonder` how to 'give' a `highlight`  
+`actually` `i` `wonder` `how` `to` `'give'` `a` `highlight`  
 ```
