@@ -1,15 +1,4 @@
-# EDDY
-======
-just fall in and get deep
------
-it`s a test file`
+# IT\`S AN EDDY
+for recording
 
-a
-
-aa`aaa`
-aaaaaaa<br>
-wodoads <br>
-
-*a*   |一个*<br>
-## _you can even __combine__ them_
-
+  recording 'looking' for seeking
